@@ -10,3 +10,8 @@ This a SQL programming project for DataBase Learning individual project
    sql folder. Change the password of your phpmyadmin to "root"(default one do not have password).
 5. Import database contents using the cvs files that included in my csv folder. Note: do not include the first line of them
    (the table head).
+   
+## Folders
+1. csv -- includes all the data source files;
+2. sql -- all SQL query example commands;
+3. indiproj -- all php files(the main part);
