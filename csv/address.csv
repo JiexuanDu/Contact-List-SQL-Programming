@@ -1,0 +1,1456 @@
+﻿id,contact_id,address_type,home_address,home_city,home_state,home_zip
+1,1,Home,,,,75018
+2,2,Home,2287 Sutteridge Park,Dallas,Texas,75062
+3,3,Home,,,,75029
+4,4,Home,,,,75099
+5,5,Home,62477 Hovde Hill,Allen,Texas,75061
+6,6,Home,06 Heffernan Center,Richardson,Texas,
+7,7,Home,,,,75031
+8,8,Home,16515 Nova Hill,Allen,Texas,75041
+9,9,Home,626 Orin Center,Addison,Texas,
+10,10,Home,6687 Dottie Plaza,Richardson,Texas,75027
+11,11,Home,8 Luster Terrace,Dallas,Texas,75059
+12,12,Home,,,,75076
+13,13,Home,15 Jackson Lane,Allen,Texas,75013
+14,14,Home,79254 Pond Center,Dallas,Texas,75083
+15,15,Home,9 Logan Parkway,Dallas,Texas,75078
+16,16,Home,65052 Heath Point,Plano,Texas,75046
+17,17,Home,,,,75005
+18,18,Home,8 Fuller Road,Addison,Texas,75088
+19,19,Home,1961 Division Hill,Addison,Texas,
+20,20,Home,,,,75042
+21,21,Home,,,,75060
+22,22,Home,528 Main Junction,Dallas,Texas,75046
+23,23,Home,9086 Sommers Crossing,Richardson,Texas,
+24,24,Home,,,,75099
+25,25,Home,83 Shoshone Parkway,Plano,Texas,75046
+26,26,Home,333 Scoville Hill,Allen,Texas,75091
+27,27,Home,18894 Division Lane,Richardson,Texas,75083
+28,28,Home,250 2nd Drive,Richardson,Texas,
+29,29,Home,85701 Basil Road,Allen,Texas,75004
+30,30,Home,23 Kings Lane,Plano,Texas,75086
+31,31,Home,4 Maple Trail,Richardson,Texas,
+32,32,Home,504 Bayside Pass,Dallas,Texas,75060
+33,33,Home,,,,75009
+34,34,Home,26 Towne Road,Richardson,Texas,75047
+35,35,Home,9324 Onsgard Parkway,Dallas,Texas,
+36,36,Home,016 Oak Valley Parkway,Dallas,Texas,
+37,37,Home,660 Truax Way,Dallas,Texas,75037
+38,38,Home,75903 Linden Circle,Plano,Texas,75045
+39,39,Home,36 Alpine Drive,Richardson,Texas,
+40,40,Home,6 Muir Circle,Dallas,Texas,75078
+41,41,Home,5395 Becker Drive,Plano,Texas,75011
+42,42,Home,4585 Bluestem Avenue,Plano,Texas,75013
+43,43,Home,9 Orin Alley,Richardson,Texas,75002
+44,44,Home,9274 Spohn Hill,Dallas,Texas,75041
+45,45,Home,34 Northfield Plaza,Dallas,Texas,75061
+46,46,Home,825 Dixon Lane,Dallas,Texas,75030
+47,48,Home,,,,75071
+48,49,Home,160 Grasskamp Park,Allen,Texas,75011
+49,51,Home,3681 Schmedeman Park,Allen,Texas,75010
+50,52,Home,1330 Thackeray Junction,Plano,Texas,75002
+51,53,Home,70 Gina Point,Richardson,Texas,
+52,54,Home,0 Golf View Plaza,Dallas,Texas,75095
+53,55,Home,22839 Stuart Park,Richardson,Texas,75074
+54,56,Home,92 Elmside Way,Plano,Texas,
+55,57,Home,589 Mccormick Parkway,Dallas,Texas,75067
+56,58,Home,56378 Talisman Drive,Allen,Texas,75032
+57,59,Home,99570 Bayside Parkway,Allen,Texas,
+58,60,Home,99687 Jenna Circle,Richardson,Texas,75016
+59,61,Home,9028 Carberry Avenue,Addison,Texas,75011
+60,62,Home,55 Del Mar Hill,Allen,Texas,75017
+61,63,Home,,,,75041
+62,65,Home,72772 Northfield Way,Dallas,Texas,75002
+63,66,Home,11 Donald Plaza,Allen,Texas,75048
+64,67,Home,67412 Sundown Parkway,Addison,Texas,
+65,68,Home,3 Moulton Junction,Addison,Texas,75049
+66,69,Home,434 Farwell Plaza,Plano,Texas,75059
+67,70,Home,08 Fremont Road,Allen,Texas,75048
+68,71,Home,1251 Graceland Point,Dallas,Texas,75051
+69,72,Home,,,,75023
+70,73,Home,86545 Tennyson Crossing,Richardson,Texas,75064
+71,74,Home,1430 Linden Way,Addison,Texas,75040
+72,75,Home,2268 Nancy Lane,Richardson,Texas,75081
+73,76,Home,,,,75022
+74,77,Home,840 Kingsford Parkway,Richardson,Texas,75073
+75,78,Home,4 Sunbrook Avenue,Addison,Texas,75067
+76,79,Home,8735 Bultman Circle,Dallas,Texas,75094
+77,80,Home,65183 Delladonna Avenue,Allen,Texas,75079
+78,81,Home,89640 Cody Terrace,Richardson,Texas,
+79,82,Home,12 Butternut Terrace,Richardson,Texas,75006
+80,83,Home,204 Farwell Avenue,Plano,Texas,75074
+81,84,Home,1 Anhalt Junction,Dallas,Texas,
+82,85,Home,933 Debra Terrace,Allen,Texas,75021
+83,86,Home,4265 Mayer Junction,Plano,Texas,75053
+84,87,Home,46 Oakridge Avenue,Richardson,Texas,75059
+85,88,Home,71 Jay Terrace,Plano,Texas,75055
+86,89,Home,598 Elmside Drive,Dallas,Texas,75067
+87,90,Home,,,,75001
+88,91,Home,421 8th Drive,Addison,Texas,75004
+89,92,Home,,,,75047
+90,93,Home,27 Talmadge Park,Plano,Texas,75034
+91,94,Home,801 Pleasure Trail,Addison,Texas,75057
+92,95,Home,2449 Pepper Wood Court,Plano,Texas,75055
+93,96,Home,79761 Carioca Point,Allen,Texas,
+94,97,Home,,,,75093
+95,98,Home,,,,75033
+96,99,Home,27015 Nelson Parkway,Richardson,Texas,
+97,100,Home,470 Derek Plaza,Richardson,Texas,75013
+98,101,Home,622 Iowa Terrace,Allen,Texas,75086
+99,102,Home,,,,75097
+100,103,Home,8 Colorado Alley,Dallas,Texas,75094
+101,104,Home,4 Dwight Court,Richardson,Texas,75072
+102,105,Home,7 Sugar Parkway,Richardson,Texas,75014
+103,106,Home,5221 Pearson Parkway,Addison,Texas,
+104,107,Home,80 Welch Street,Allen,Texas,75061
+105,108,Home,3 Derek Alley,Richardson,Texas,
+106,109,Home,,,,75003
+107,110,Home,1409 Loftsgordon Alley,Plano,Texas,75003
+108,111,Home,3188 Fieldstone Circle,Plano,Texas,75072
+109,114,Home,86 Welch Parkway,Allen,Texas,
+110,115,Home,210 Victoria Hill,Allen,Texas,
+111,117,Home,19886 Pine View Terrace,Addison,Texas,75056
+112,118,Home,24 Welch Avenue,Plano,Texas,75031
+113,119,Home,0 Karstens Way,Allen,Texas,75088
+114,120,Home,8101 Jenna Court,Dallas,Texas,75085
+115,121,Home,24 Doe Crossing Court,Dallas,Texas,75028
+116,122,Home,79 Buena Vista Drive,Allen,Texas,
+117,123,Home,82883 Ohio Junction,Plano,Texas,
+118,124,Home,7595 Rusk Crossing,Dallas,Texas,75097
+119,125,Home,4 Elmside Park,Addison,Texas,
+120,126,Home,67 Corscot Drive,Plano,Texas,75098
+121,127,Home,4 Heath Parkway,Addison,Texas,75005
+122,128,Home,202 Pankratz Terrace,Addison,Texas,75007
+123,129,Home,,,,75049
+124,130,Home,1652 Rowland Plaza,Addison,Texas,75064
+125,131,Home,84 Sommers Plaza,Addison,Texas,75004
+126,132,Home,97 Cardinal Road,Dallas,Texas,75027
+127,133,Home,54 Lakewood Drive,Richardson,Texas,75063
+128,136,Home,3 Gulseth Alley,Addison,Texas,75052
+129,137,Home,,,,75044
+130,138,Home,207 Fulton Avenue,Dallas,Texas,75094
+131,139,Home,28 Hollow Ridge Lane,Plano,Texas,75068
+132,140,Home,37 Hauk Avenue,Dallas,Texas,75098
+133,141,Home,137 Moose Circle,Plano,Texas,75026
+134,142,Home,63832 Shasta Crossing,Plano,Texas,75044
+135,144,Home,38977 Karstens Lane,Allen,Texas,
+136,145,Home,6 Browning Point,Plano,Texas,75097
+137,146,Home,3785 Heath Pass,Dallas,Texas,75005
+138,147,Home,8406 Golf Course Trail,Allen,Texas,75033
+139,148,Home,2 Truax Trail,Addison,Texas,75071
+140,150,Home,7 Scott Place,Plano,Texas,
+141,151,Home,,,,75012
+142,152,Home,299 Golf View Way,Allen,Texas,75085
+143,153,Home,003 Morrow Crossing,Allen,Texas,75049
+144,155,Home,679 Pankratz Lane,Addison,Texas,75052
+145,156,Home,272 Farmco Lane,Addison,Texas,75003
+146,157,Home,3229 Huxley Hill,Richardson,Texas,75091
+147,159,Home,168 Eagan Road,Allen,Texas,75018
+148,160,Home,3037 Center Crossing,Plano,Texas,75043
+149,161,Home,7 Vermont Terrace,Allen,Texas,
+150,162,Home,90 Elmside Hill,Richardson,Texas,75010
+151,163,Home,,,,75056
+152,164,Home,9547 Michigan Lane,Addison,Texas,75054
+153,165,Home,38 Mallard Place,Richardson,Texas,75038
+154,166,Home,2873 Rusk Crossing,Allen,Texas,75040
+155,167,Home,9976 Mccormick Terrace,Allen,Texas,
+156,168,Home,66 Hallows Trail,Allen,Texas,
+157,170,Home,,,,75055
+158,171,Home,13 Cascade Crossing,Plano,Texas,
+159,172,Home,48833 Atwood Alley,Addison,Texas,75001
+160,173,Home,21 Canary Park,Plano,Texas,75018
+161,174,Home,,,,75069
+162,175,Home,6235 Longview Pass,Plano,Texas,
+163,176,Home,,,,75025
+164,177,Home,,,,75082
+165,178,Home,7224 Daystar Pass,Allen,Texas,
+166,179,Home,35825 Maple Alley,Richardson,Texas,75001
+167,180,Home,2 Sunfield Street,Plano,Texas,75064
+168,181,Home,9 Vahlen Drive,Richardson,Texas,75081
+169,182,Home,2031 School Trail,Addison,Texas,
+170,183,Home,25234 Transport Drive,Plano,Texas,
+171,184,Home,2 Nova Point,Addison,Texas,75095
+172,185,Home,1 Kropf Circle,Addison,Texas,
+173,186,Home,68 Cherokee Way,Addison,Texas,75061
+174,187,Home,1 Kenwood Road,Richardson,Texas,75064
+175,188,Home,281 Waxwing Point,Richardson,Texas,75080
+176,189,Home,,,,75091
+177,190,Home,1 Jay Parkway,Plano,Texas,
+178,191,Home,4 Kinsman Junction,Plano,Texas,75013
+179,192,Home,3 Karstens Park,Dallas,Texas,75058
+180,193,Home,3396 Claremont Trail,Allen,Texas,75018
+181,194,Home,04546 Tennyson Alley,Plano,Texas,75027
+182,195,Home,4 Bunting Plaza,Addison,Texas,75085
+183,196,Home,7069 Victoria Court,Allen,Texas,
+184,197,Home,3774 Shoshone Hill,Addison,Texas,75062
+185,198,Home,,,,75098
+186,199,Home,48 Tony Parkway,Plano,Texas,75083
+187,200,Home,8 Twin Pines Lane,Richardson,Texas,75032
+188,201,Home,90 Lakeland Pass,Richardson,Texas,
+189,202,Home,091 Old Shore Plaza,Richardson,Texas,75014
+190,203,Home,8 Sheridan Point,Allen,Texas,
+191,204,Home,,,,75019
+192,205,Home,41 Lakewood Terrace,Allen,Texas,
+193,206,Home,,,,75004
+194,207,Home,6247 Macpherson Way,Addison,Texas,75061
+195,208,Home,3 Buell Avenue,Addison,Texas,
+196,209,Home,054 Mccormick Court,Richardson,Texas,75045
+197,210,Home,83 Esch Road,Plano,Texas,75048
+198,211,Home,85937 Burrows Pass,Addison,Texas,
+199,212,Home,0 Stuart Road,Dallas,Texas,
+200,213,Home,,,,75087
+201,214,Home,,,,75026
+202,215,Home,,,,75015
+203,216,Home,430 Hudson Hill,Allen,Texas,75077
+204,217,Home,,,,75060
+205,218,Home,5303 Stoughton Circle,Allen,Texas,75012
+206,219,Home,2250 Bunting Point,Addison,Texas,75061
+207,220,Home,86414 Gateway Alley,Plano,Texas,75082
+208,221,Home,7 Hagan Parkway,Richardson,Texas,
+209,222,Home,27 Hovde Place,Addison,Texas,
+210,223,Home,88997 Summit Plaza,Addison,Texas,
+211,224,Home,,,,75052
+212,225,Home,51 Dexter Drive,Dallas,Texas,75032
+213,226,Home,,,,75045
+214,227,Home,812 Hermina Road,Richardson,Texas,75046
+215,228,Home,267 Russell Park,Addison,Texas,
+216,229,Home,50 Gale Pass,Plano,Texas,
+217,230,Home,44995 Johnson Court,Allen,Texas,75003
+218,231,Home,3 Village Green Parkway,Addison,Texas,75023
+219,232,Home,,,,75097
+220,233,Home,0 Rockefeller Hill,Dallas,Texas,
+221,234,Home,,,,75070
+222,235,Home,6 Valley Edge Hill,Addison,Texas,75025
+223,236,Home,390 Kenwood Hill,Richardson,Texas,75023
+224,238,Home,13429 Northport Circle,Richardson,Texas,75051
+225,239,Home,90 Canary Crossing,Richardson,Texas,
+226,240,Home,3595 Huxley Way,Addison,Texas,75052
+227,241,Home,67573 Judy Junction,Allen,Texas,
+228,242,Home,50 Sycamore Plaza,Addison,Texas,75030
+229,243,Home,762 Roxbury Alley,Allen,Texas,75046
+230,244,Home,33 Hintze Center,Richardson,Texas,75089
+231,245,Home,16 Knutson Pass,Allen,Texas,
+232,246,Home,,,,75026
+233,248,Home,5357 7th Road,Addison,Texas,
+234,249,Home,,,,75040
+235,250,Home,5 Jana Alley,Richardson,Texas,75063
+236,251,Home,57366 Hayes Pass,Addison,Texas,75065
+237,252,Home,07 Kenwood Plaza,Allen,Texas,75014
+238,253,Home,830 Mccormick Drive,Plano,Texas,75012
+239,254,Home,440 Harper Parkway,Addison,Texas,75095
+240,255,Home,6821 8th Pass,Dallas,Texas,
+241,256,Home,8067 Bayside Parkway,Plano,Texas,
+242,257,Home,42330 Hooker Parkway,Allen,Texas,75073
+243,259,Home,27 Lotheville Road,Dallas,Texas,
+244,260,Home,81 Talisman Point,Allen,Texas,75010
+245,261,Home,0 Oakridge Center,Plano,Texas,
+246,262,Home,9113 Dakota Crossing,Richardson,Texas,75083
+247,263,Home,94 Forest Park,Dallas,Texas,
+248,264,Home,,,,75038
+249,265,Home,4553 Moulton Center,Richardson,Texas,
+250,266,Home,87 Warrior Center,Allen,Texas,
+251,267,Home,,,,75019
+252,268,Home,,,,75081
+253,269,Home,1222 Pond Drive,Richardson,Texas,75006
+254,270,Home,,,,75084
+255,271,Home,31 Summer Ridge Street,Dallas,Texas,
+256,272,Home,5 Hanover Crossing,Dallas,Texas,75066
+257,273,Home,9 Melrose Street,Plano,Texas,75008
+258,275,Home,8359 Columbus Circle,Plano,Texas,75092
+259,276,Home,72920 Ruskin Trail,Dallas,Texas,75029
+260,277,Home,40 Garrison Circle,Allen,Texas,75015
+261,278,Home,1 Spohn Lane,Plano,Texas,75028
+262,279,Home,37 Rusk Place,Addison,Texas,75071
+263,280,Home,,,,75015
+264,281,Home,2 Hanson Point,Addison,Texas,75083
+265,282,Home,96 Acker Way,Allen,Texas,
+266,283,Home,328 Farragut Circle,Richardson,Texas,75031
+267,284,Home,2194 Messerschmidt Lane,Richardson,Texas,75001
+268,285,Home,1 Monterey Point,Dallas,Texas,75055
+269,286,Home,5547 Mallard Park,Allen,Texas,75027
+270,287,Home,3 Menomonie Court,Plano,Texas,75050
+271,288,Home,82 Duke Street,Allen,Texas,75090
+272,289,Home,,,,75090
+273,290,Home,,,,75003
+274,292,Home,808 Merry Avenue,Dallas,Texas,75047
+275,293,Home,36365 Esch Road,Dallas,Texas,
+276,294,Home,75 Red Cloud Trail,Richardson,Texas,
+277,295,Home,1174 Sullivan Avenue,Allen,Texas,75040
+278,296,Home,1 Grasskamp Park,Dallas,Texas,
+279,297,Home,,,,75070
+280,298,Home,2317 Annamark Alley,Dallas,Texas,
+281,299,Home,37 Sachtjen Center,Plano,Texas,75021
+282,300,Home,58 Redwing Court,Plano,Texas,75097
+283,301,Home,632 Graedel Place,Addison,Texas,
+284,302,Home,37 Mayer Way,Plano,Texas,
+285,303,Home,563 Mockingbird Point,Richardson,Texas,75035
+286,304,Home,03 Tomscot Circle,Plano,Texas,75030
+287,306,Home,,,,75074
+288,307,Home,26 Erie Hill,Richardson,Texas,75075
+289,309,Home,5 Nobel Avenue,Addison,Texas,
+290,310,Home,9940 Dunning Parkway,Addison,Texas,
+291,311,Home,5598 Waxwing Crossing,Richardson,Texas,75029
+292,312,Home,3 Bayside Way,Richardson,Texas,75010
+293,313,Home,271 Bowman Way,Plano,Texas,75027
+294,314,Home,2953 Scoville Drive,Addison,Texas,
+295,315,Home,35 Caliangt Terrace,Addison,Texas,75082
+296,316,Home,83 Nova Park,Plano,Texas,
+297,317,Home,597 Schmedeman Point,Dallas,Texas,
+298,318,Home,8232 Chive Point,Plano,Texas,75042
+299,319,Home,8 Packers Lane,Plano,Texas,
+300,320,Home,07066 Monica Center,Richardson,Texas,
+301,321,Home,,,,75046
+302,323,Home,318 Moose Trail,Richardson,Texas,75076
+303,324,Home,38654 Novick Point,Plano,Texas,
+304,325,Home,,,,75025
+305,326,Home,45 Miller Trail,Plano,Texas,75042
+306,327,Home,8 Forest Dale Way,Plano,Texas,75051
+307,328,Home,087 Duke Pass,Dallas,Texas,75005
+308,329,Home,811 Petterle Park,Addison,Texas,
+309,330,Home,2737 School Avenue,Richardson,Texas,75061
+310,331,Home,1 Chive Junction,Dallas,Texas,75063
+311,332,Home,2 Randy Way,Addison,Texas,75076
+312,333,Home,318 Canary Place,Richardson,Texas,75016
+313,334,Home,474 Weeping Birch Park,Dallas,Texas,75048
+314,335,Home,5762 Toban Alley,Addison,Texas,75048
+315,336,Home,944 Porter Crossing,Addison,Texas,75041
+316,337,Home,2960 Myrtle Drive,Plano,Texas,75008
+317,338,Home,1 Sachs Way,Addison,Texas,
+318,339,Home,53 Hermina Plaza,Richardson,Texas,75015
+319,340,Home,01 Fieldstone Terrace,Addison,Texas,75021
+320,341,Home,19 Forest Dale Pass,Plano,Texas,
+321,342,Home,9 Schlimgen Trail,Allen,Texas,
+322,343,Home,79 Onsgard Drive,Plano,Texas,
+323,344,Home,4899 Fremont Way,Addison,Texas,
+324,345,Home,8733 Aberg Crossing,Addison,Texas,75054
+325,346,Home,0 Green Drive,Dallas,Texas,
+326,347,Home,52 Morningstar Road,Plano,Texas,75043
+327,348,Home,0 Brickson Park Place,Plano,Texas,75009
+328,349,Home,5930 Clarendon Point,Allen,Texas,
+329,350,Home,3852 Fallview Pass,Richardson,Texas,75034
+330,351,Home,,,,75003
+331,352,Home,4 Independence Hill,Plano,Texas,75048
+332,353,Home,9 Lighthouse Bay Court,Allen,Texas,75031
+333,354,Home,1 Namekagon Hill,Allen,Texas,
+334,355,Home,,,,75076
+335,356,Home,4 Havey Hill,Allen,Texas,75085
+336,357,Home,,,,75045
+337,358,Home,6 Crescent Oaks Parkway,Addison,Texas,75035
+338,359,Home,95 Mallory Point,Plano,Texas,
+339,360,Home,1131 Marquette Parkway,Richardson,Texas,75031
+340,361,Home,988 Vernon Avenue,Plano,Texas,75086
+341,362,Home,36 Nova Junction,Addison,Texas,75061
+342,363,Home,029 Derek Crossing,Allen,Texas,75060
+343,364,Home,,,,75004
+344,365,Home,85 Mandrake Street,Allen,Texas,
+345,366,Home,53 Thierer Junction,Dallas,Texas,75010
+346,367,Home,,,,75091
+347,368,Home,12 Springs Drive,Allen,Texas,75089
+348,369,Home,1 Hovde Pass,Addison,Texas,75040
+349,370,Home,620 West Drive,Addison,Texas,75073
+350,371,Home,463 5th Junction,Addison,Texas,75020
+351,372,Home,02 Northport Park,Richardson,Texas,75077
+352,373,Home,0 Truax Park,Plano,Texas,75033
+353,374,Home,778 Carey Avenue,Addison,Texas,75025
+354,375,Home,4510 Southridge Circle,Allen,Texas,75050
+355,376,Home,,,,75066
+356,377,Home,9322 Armistice Park,Plano,Texas,75032
+357,378,Home,98252 Manufacturers Parkway,Allen,Texas,75092
+358,379,Home,6694 Columbus Plaza,Richardson,Texas,75004
+359,380,Home,,,,75009
+360,381,Home,47 Dakota Parkway,Dallas,Texas,75091
+361,382,Home,7986 Fallview Point,Richardson,Texas,75057
+362,383,Home,,,,75033
+363,384,Home,66 Sunbrook Hill,Richardson,Texas,75049
+364,385,Home,09 Farragut Way,Dallas,Texas,75003
+365,386,Home,86112 Michigan Alley,Plano,Texas,75017
+366,387,Home,,,,75046
+367,388,Home,1 Continental Crossing,Dallas,Texas,75087
+368,389,Home,5 Sunfield Trail,Plano,Texas,75018
+369,390,Home,21338 Jenna Center,Plano,Texas,
+370,391,Home,4216 Ridgeview Way,Plano,Texas,75093
+371,393,Home,7260 Hudson Street,Richardson,Texas,
+372,394,Home,11738 Harbort Road,Allen,Texas,75003
+373,395,Home,44 Harbort Alley,Richardson,Texas,75088
+374,396,Home,83453 Clemons Junction,Allen,Texas,
+375,397,Home,81 Lillian Crossing,Plano,Texas,75084
+376,398,Home,928 Karstens Place,Dallas,Texas,
+377,399,Home,88 Anderson Trail,Dallas,Texas,75035
+378,400,Home,413 Grasskamp Terrace,Richardson,Texas,75003
+379,401,Home,7996 Oak Valley Circle,Plano,Texas,75019
+380,402,Home,108 Pepper Wood Alley,Dallas,Texas,75089
+381,403,Home,4991 Dapin Crossing,Richardson,Texas,75034
+382,404,Home,1 Ludington Circle,Richardson,Texas,
+383,405,Home,084 Thackeray Trail,Richardson,Texas,
+384,406,Home,77379 Hermina Lane,Plano,Texas,75085
+385,407,Home,,,,75034
+386,408,Home,1 Superior Park,Dallas,Texas,75037
+387,409,Home,45 Summit Trail,Dallas,Texas,75037
+388,410,Home,,,,75095
+389,411,Home,5 Debs Park,Allen,Texas,75068
+390,412,Home,2 Ridgeway Drive,Allen,Texas,75003
+391,413,Home,978 Buell Circle,Richardson,Texas,
+392,414,Home,696 Esch Way,Addison,Texas,75001
+393,415,Home,0 Express Pass,Addison,Texas,
+394,416,Home,9165 Colorado Way,Richardson,Texas,75036
+395,418,Home,8831 Waxwing Point,Addison,Texas,75012
+396,419,Home,25 Straubel Lane,Allen,Texas,75077
+397,420,Home,5 Melvin Drive,Richardson,Texas,75038
+398,421,Home,6367 Annamark Junction,Plano,Texas,75024
+399,422,Home,,,,75086
+400,423,Home,77 Dakota Alley,Allen,Texas,75001
+401,424,Home,828 Shoshone Drive,Plano,Texas,
+402,425,Home,57306 Westridge Junction,Plano,Texas,
+403,427,Home,43 Tennessee Park,Dallas,Texas,75054
+404,428,Home,333 Montana Avenue,Richardson,Texas,
+405,429,Home,03062 Express Crossing,Richardson,Texas,
+406,431,Home,,,,75004
+407,432,Home,570 Prairie Rose Terrace,Richardson,Texas,75011
+408,433,Home,50463 Novick Road,Richardson,Texas,
+409,434,Home,1703 Portage Place,Plano,Texas,75096
+410,435,Home,66 Service Pass,Dallas,Texas,75069
+411,436,Home,15 Marquette Center,Allen,Texas,
+412,437,Home,1152 Basil Crossing,Plano,Texas,75024
+413,438,Home,00 Aberg Trail,Dallas,Texas,
+414,439,Home,97897 Nevada Place,Richardson,Texas,
+415,440,Home,86669 Kings Court,Addison,Texas,
+416,441,Home,639 Del Mar Plaza,Dallas,Texas,75091
+417,442,Home,28 Kipling Pass,Addison,Texas,
+418,443,Home,6 Aberg Hill,Allen,Texas,75042
+419,444,Home,39881 Vidon Center,Richardson,Texas,75098
+420,445,Home,29509 Calypso Circle,Plano,Texas,75098
+421,446,Home,49285 Huxley Park,Richardson,Texas,75039
+422,447,Home,3990 Lakeland Plaza,Dallas,Texas,75090
+423,448,Home,3757 Truax Park,Richardson,Texas,
+424,449,Home,,,,75058
+425,450,Home,18975 Harbort Hill,Dallas,Texas,75004
+426,451,Home,47751 Red Cloud Street,Dallas,Texas,75013
+427,452,Home,648 Hooker Junction,Dallas,Texas,75061
+428,453,Home,60302 Longview Way,Richardson,Texas,75004
+429,454,Home,834 Manitowish Center,Addison,Texas,
+430,455,Home,3 Onsgard Plaza,Addison,Texas,75005
+431,456,Home,0 Larry Way,Allen,Texas,75060
+432,457,Home,370 Longview Hill,Allen,Texas,75005
+433,458,Home,90777 Northwestern Street,Addison,Texas,
+434,459,Home,72116 Rockefeller Street,Allen,Texas,75097
+435,460,Home,71 Loftsgordon Hill,Dallas,Texas,
+436,461,Home,4574 Sachs Street,Allen,Texas,
+437,462,Home,472 Merchant Street,Allen,Texas,
+438,463,Home,3912 Riverside Circle,Richardson,Texas,75039
+439,464,Home,79872 Roth Way,Plano,Texas,75082
+440,465,Home,34 Dexter Drive,Plano,Texas,75044
+441,466,Home,212 School Hill,Plano,Texas,75093
+442,467,Home,,,,75011
+443,468,Home,2 Kinsman Avenue,Allen,Texas,
+444,469,Home,887 Mockingbird Park,Richardson,Texas,75011
+445,471,Home,1 Havey Hill,Plano,Texas,
+446,472,Home,,,,75023
+447,473,Home,4106 Dapin Court,Dallas,Texas,75003
+448,475,Home,135 Mariners Cove Parkway,Richardson,Texas,75038
+449,476,Home,60 Graedel Plaza,Dallas,Texas,
+450,477,Home,,,,75079
+451,478,Home,,,,75071
+452,479,Home,51 High Crossing Street,Allen,Texas,75002
+453,480,Home,8142 Mccormick Pass,Dallas,Texas,75083
+454,481,Home,5652 Pierstorff Road,Plano,Texas,
+455,482,Home,5 Graceland Place,Allen,Texas,
+456,483,Home,33 Bluestem Center,Addison,Texas,
+457,484,Home,78 Caliangt Way,Plano,Texas,75005
+458,485,Home,114 La Follette Crossing,Addison,Texas,75077
+459,486,Home,74197 Mcguire Avenue,Addison,Texas,75061
+460,487,Home,,,,75017
+461,488,Home,65 Tony Way,Plano,Texas,75020
+462,489,Home,26 Riverside Drive,Plano,Texas,75065
+463,490,Home,,,,75088
+464,491,Home,1775 Columbus Place,Addison,Texas,75054
+465,493,Home,,,,75092
+466,494,Home,289 Russell Pass,Plano,Texas,75063
+467,495,Home,3 Maple Wood Plaza,Dallas,Texas,75017
+468,496,Home,1 Stone Corner Terrace,Allen,Texas,
+469,497,Home,259 Fairview Center,Plano,Texas,75090
+470,498,Home,1 Gulseth Center,Allen,Texas,75057
+471,499,Home,86658 Merchant Parkway,Richardson,Texas,
+472,500,Home,036 Pleasure Parkway,Addison,Texas,75039
+473,501,Home,41 Emmet Point,Allen,Texas,75085
+474,503,Home,8 Morning Lane,Plano,Texas,
+475,504,Home,,,,75054
+476,505,Home,1 Graceland Center,Addison,Texas,
+477,506,Home,3 Chinook Junction,Addison,Texas,75021
+478,507,Home,28 Melvin Court,Allen,Texas,75092
+479,508,Home,546 Arapahoe Alley,Allen,Texas,75041
+480,509,Home,2 Mandrake Lane,Addison,Texas,
+481,511,Home,1160 Waubesa Court,Addison,Texas,75080
+482,512,Home,74 Grim Center,Addison,Texas,75047
+483,513,Home,3 Straubel Trail,Addison,Texas,75022
+484,514,Home,09144 Waxwing Parkway,Plano,Texas,75080
+485,515,Home,4 Golf View Street,Richardson,Texas,75049
+486,516,Home,,,,75043
+487,517,Home,6133 Blaine Plaza,Plano,Texas,
+488,518,Home,55 Utah Way,Dallas,Texas,
+489,519,Home,30380 Melvin Terrace,Addison,Texas,75047
+490,520,Home,,,,75071
+491,521,Home,443 Gale Avenue,Dallas,Texas,
+492,522,Home,57436 Merrick Lane,Dallas,Texas,75065
+493,523,Home,64231 Green Ridge Parkway,Dallas,Texas,75018
+494,524,Home,58 Northview Drive,Allen,Texas,75032
+495,525,Home,26 Stuart Road,Plano,Texas,75050
+496,526,Home,0 Crowley Circle,Allen,Texas,75052
+497,527,Home,3896 Columbus Parkway,Addison,Texas,75010
+498,528,Home,25867 Florence Avenue,Allen,Texas,
+499,529,Home,018 Muir Circle,Plano,Texas,
+500,530,Home,23 Sullivan Alley,Addison,Texas,
+501,531,Home,3392 Sherman Circle,Richardson,Texas,
+502,532,Home,217 Dayton Road,Plano,Texas,75089
+503,533,Home,6537 Colorado Hill,Plano,Texas,75087
+504,534,Home,,,,75006
+505,535,Home,6 Carpenter Pass,Allen,Texas,75001
+506,536,Home,837 Westridge Lane,Allen,Texas,75079
+507,537,Home,114 Mitchell Terrace,Addison,Texas,
+508,538,Home,344 Glacier Hill Point,Addison,Texas,
+509,539,Home,23 Blackbird Alley,Plano,Texas,75091
+510,540,Home,5 Merry Terrace,Richardson,Texas,75081
+511,541,Home,149 Talisman Court,Plano,Texas,
+512,542,Home,516 Stoughton Plaza,Allen,Texas,75093
+513,543,Home,0179 Kensington Trail,Dallas,Texas,75087
+514,544,Home,1086 Ludington Pass,Addison,Texas,75040
+515,545,Home,11388 Reinke Way,Addison,Texas,75052
+516,546,Home,68 Laurel Plaza,Allen,Texas,75079
+517,547,Home,05232 Knutson Pass,Richardson,Texas,75059
+518,548,Home,3722 Summit Junction,Richardson,Texas,
+519,549,Home,6830 Lake View Hill,Allen,Texas,
+520,550,Home,963 Cottonwood Junction,Allen,Texas,
+521,551,Home,7 Comanche Plaza,Richardson,Texas,75006
+522,552,Home,73097 Autumn Leaf Street,Addison,Texas,
+523,553,Home,6 Waywood Drive,Addison,Texas,
+524,554,Home,,,,75079
+525,555,Home,70 Brown Place,Dallas,Texas,
+526,556,Home,,,,75071
+527,557,Home,1 Mallard Trail,Addison,Texas,75078
+528,558,Home,0848 Bluestem Hill,Dallas,Texas,
+529,559,Home,75026 Straubel Lane,Allen,Texas,
+530,560,Home,,,,75061
+531,561,Home,502 Dawn Center,Addison,Texas,75095
+532,563,Home,9 Dorton Hill,Addison,Texas,75025
+533,564,Home,3 Pierstorff Lane,Dallas,Texas,
+534,565,Home,5 Old Shore Way,Dallas,Texas,75094
+535,566,Home,6 Gale Point,Richardson,Texas,
+536,567,Home,0273 Fairview Way,Addison,Texas,
+537,568,Home,49356 Anhalt Court,Dallas,Texas,75016
+538,569,Home,0187 Beilfuss Crossing,Allen,Texas,75026
+539,570,Home,952 Browning Junction,Allen,Texas,75025
+540,571,Home,59 Buell Park,Richardson,Texas,75062
+541,573,Home,,,,75032
+542,574,Home,45444 Sutherland Trail,Dallas,Texas,75091
+543,575,Home,2457 Fuller Court,Richardson,Texas,
+544,576,Home,723 Bayside Alley,Richardson,Texas,75013
+545,577,Home,9494 3rd Parkway,Addison,Texas,75043
+546,578,Home,689 Maywood Trail,Dallas,Texas,
+547,579,Home,7839 Carioca Drive,Allen,Texas,75091
+548,580,Home,8 Rockefeller Drive,Plano,Texas,75021
+549,581,Home,44630 Elgar Avenue,Allen,Texas,75062
+550,582,Home,680 Meadow Vale Parkway,Richardson,Texas,75034
+551,583,Home,120 Tony Center,Addison,Texas,75029
+552,584,Home,92383 North Crossing,Addison,Texas,
+553,585,Home,28 Cottonwood Circle,Addison,Texas,75091
+554,586,Home,66 Charing Cross Trail,Plano,Texas,75092
+555,587,Home,9 Warrior Plaza,Plano,Texas,75008
+556,588,Home,,,,75028
+557,589,Home,00220 Manufacturers Road,Dallas,Texas,
+558,591,Home,,,,75017
+559,592,Home,,,,75047
+560,594,Home,465 Rigney Way,Allen,Texas,75051
+561,596,Home,89 Kenwood Trail,Addison,Texas,75095
+562,597,Home,3 Mcguire Circle,Plano,Texas,
+563,598,Home,57438 Arrowood Alley,Dallas,Texas,75070
+564,599,Home,810 Carberry Place,Dallas,Texas,75082
+565,600,Home,25433 Sauthoff Place,Allen,Texas,75024
+566,601,Home,9 Hoepker Parkway,Plano,Texas,75003
+567,602,Home,,,,75032
+568,603,Home,,,,75094
+569,604,Home,,,,75004
+570,605,Home,,,,75036
+571,606,Home,32742 Fieldstone Plaza,Allen,Texas,75051
+572,607,Home,509 Cherokee Circle,Dallas,Texas,75014
+573,608,Home,04 Randy Circle,Allen,Texas,75078
+574,609,Home,59 Talisman Road,Allen,Texas,75019
+575,610,Home,43 Macpherson Terrace,Richardson,Texas,75098
+576,611,Home,,,,75077
+577,612,Home,188 Summerview Way,Plano,Texas,
+578,613,Home,0327 Monica Avenue,Addison,Texas,75009
+579,614,Home,72 Macpherson Avenue,Plano,Texas,75021
+580,615,Home,26807 Bayside Point,Allen,Texas,75050
+581,616,Home,877 Fairview Road,Allen,Texas,75071
+582,617,Home,51 Almo Circle,Allen,Texas,75082
+583,618,Home,390 Garrison Place,Addison,Texas,75096
+584,619,Home,,,,75037
+585,620,Home,22191 Declaration Plaza,Allen,Texas,75076
+586,621,Home,09440 Oak Junction,Richardson,Texas,
+587,622,Home,,,,75075
+588,623,Home,417 Lighthouse Bay Lane,Plano,Texas,75051
+589,624,Home,26 Gale Street,Richardson,Texas,
+590,625,Home,67 Cottonwood Plaza,Richardson,Texas,75091
+591,626,Home,,,,75093
+592,627,Home,0236 Memorial Park,Plano,Texas,75048
+593,629,Home,7 5th Place,Plano,Texas,
+594,630,Home,2 High Crossing Way,Richardson,Texas,
+595,631,Home,,,,75021
+596,632,Home,1 Blackbird Pass,Allen,Texas,75032
+597,633,Home,6 Anzinger Street,Plano,Texas,75027
+598,634,Home,15 Maywood Center,Addison,Texas,75084
+599,635,Home,9716 Michigan Plaza,Allen,Texas,
+600,636,Home,28 Iowa Crossing,Addison,Texas,
+601,637,Home,5 Reinke Center,Addison,Texas,75044
+602,639,Home,4090 Loeprich Place,Addison,Texas,75036
+603,640,Home,88 Harbort Alley,Addison,Texas,
+604,641,Home,981 Rockefeller Crossing,Plano,Texas,75072
+605,642,Home,8 Calypso Drive,Richardson,Texas,75019
+606,643,Home,3 Memorial Terrace,Dallas,Texas,75023
+607,644,Home,,,,75069
+608,645,Home,8240 Dexter Avenue,Plano,Texas,75083
+609,646,Home,478 Birchwood Court,Plano,Texas,75045
+610,647,Home,07 North Way,Richardson,Texas,
+611,648,Home,5285 Moose Alley,Allen,Texas,
+612,649,Home,9 Stephen Way,Richardson,Texas,75029
+613,650,Home,3 Jana Avenue,Allen,Texas,75012
+614,651,Home,65148 Marcy Center,Dallas,Texas,75021
+615,652,Home,0859 Elmside Point,Dallas,Texas,75096
+616,653,Home,,,,75093
+617,654,Home,677 Fordem Court,Allen,Texas,75066
+618,655,Home,4985 Caliangt Trail,Allen,Texas,
+619,657,Home,,,,75062
+620,658,Home,33 Farwell Junction,Allen,Texas,75056
+621,659,Home,80253 Gulseth Circle,Richardson,Texas,75094
+622,660,Home,48665 Eastwood Drive,Addison,Texas,75039
+623,661,Home,14 4th Road,Allen,Texas,
+624,662,Home,0 Kinsman Plaza,Richardson,Texas,75036
+625,663,Home,02 Onsgard Drive,Richardson,Texas,
+626,664,Home,,,,75087
+627,665,Home,72 Tennessee Park,Allen,Texas,75039
+628,666,Home,958 Prairieview Court,Allen,Texas,
+629,667,Home,2674 Monument Crossing,Allen,Texas,75087
+630,668,Home,801 Stephen Point,Richardson,Texas,
+631,669,Home,6141 Summit Crossing,Addison,Texas,
+632,670,Home,855 Ramsey Lane,Plano,Texas,75007
+633,671,Home,,,,75044
+634,672,Home,2857 Weeping Birch Center,Plano,Texas,75020
+635,673,Home,692 Atwood Drive,Richardson,Texas,
+636,674,Home,5 Claremont Junction,Allen,Texas,75043
+637,675,Home,436 Fremont Circle,Allen,Texas,75052
+638,676,Home,65146 Summer Ridge Crossing,Plano,Texas,
+639,677,Home,1766 Mifflin Court,Dallas,Texas,75068
+640,678,Home,3133 Swallow Circle,Addison,Texas,75057
+641,679,Home,219 Oxford Street,Allen,Texas,75080
+642,680,Home,0 Daystar Avenue,Richardson,Texas,
+643,682,Home,,,,75011
+644,683,Home,3325 Bartelt Place,Plano,Texas,75011
+645,684,Home,21 Brickson Park Plaza,Allen,Texas,
+646,685,Home,,,,75081
+647,687,Home,97 Hooker Point,Richardson,Texas,
+648,688,Home,,,,75014
+649,689,Home,10220 Golden Leaf Lane,Richardson,Texas,75057
+650,690,Home,7746 Sommers Circle,Richardson,Texas,
+651,691,Home,6417 Mccormick Lane,Addison,Texas,75007
+652,692,Home,70662 Oak Valley Terrace,Addison,Texas,75088
+653,693,Home,77873 Annamark Drive,Allen,Texas,75055
+654,694,Home,,,,75011
+655,695,Home,,,,75097
+656,696,Home,69493 Amoth Alley,Plano,Texas,75023
+657,697,Home,53 Harbort Center,Plano,Texas,75033
+658,698,Home,84579 Blackbird Street,Dallas,Texas,75035
+659,699,Home,9 Manley Lane,Plano,Texas,75049
+660,700,Home,0 Summit Alley,Dallas,Texas,
+661,701,Home,7714 Mifflin Street,Dallas,Texas,75043
+662,703,Home,7260 Laurel Alley,Richardson,Texas,75064
+663,704,Home,2 Eliot Way,Addison,Texas,75082
+664,705,Home,06 Knutson Place,Allen,Texas,75022
+665,706,Home,9878 Caliangt Plaza,Plano,Texas,75045
+666,707,Home,17946 Union Drive,Addison,Texas,75085
+667,708,Home,6 6th Place,Plano,Texas,75040
+668,709,Home,1684 Crest Line Trail,Richardson,Texas,75085
+669,710,Home,6161 Clyde Gallagher Parkway,Dallas,Texas,75034
+670,711,Home,3 Troy Road,Addison,Texas,
+671,712,Home,4169 Namekagon Park,Plano,Texas,75015
+672,713,Home,,,,75038
+673,714,Home,3 Spaight Hill,Allen,Texas,75012
+674,715,Home,4530 Schurz Pass,Richardson,Texas,75021
+675,716,Home,9 Rowland Pass,Addison,Texas,75044
+676,717,Home,13053 American Drive,Dallas,Texas,75004
+677,718,Home,,,,75016
+678,719,Home,,,,75090
+679,720,Home,2132 Eastwood Place,Plano,Texas,75076
+680,721,Home,0758 Kings Drive,Dallas,Texas,
+681,722,Home,59 Emmet Crossing,Plano,Texas,75069
+682,723,Home,93 Dapin Court,Allen,Texas,75024
+683,724,Home,2 Dahle Hill,Allen,Texas,
+684,725,Home,27 Continental Lane,Plano,Texas,
+685,726,Home,09 Springs Avenue,Dallas,Texas,75035
+686,727,Home,77822 Delladonna Terrace,Allen,Texas,75068
+687,728,Home,868 Farmco Center,Plano,Texas,75003
+688,729,Home,,,,75025
+689,730,Home,,,,75066
+690,731,Home,24 Center Hill,Dallas,Texas,75038
+691,732,Home,1473 Farmco Circle,Plano,Texas,75050
+692,733,Home,07389 Dorton Park,Plano,Texas,75077
+693,734,Home,9 Russell Parkway,Addison,Texas,75034
+694,735,Home,990 Northview Court,Plano,Texas,75057
+695,736,Home,00818 Springs Court,Dallas,Texas,75032
+696,737,Home,352 Westridge Parkway,Richardson,Texas,75050
+697,738,Home,22 Magdeline Street,Dallas,Texas,75063
+698,740,Home,929 Weeping Birch Avenue,Dallas,Texas,75056
+699,742,Home,861 Lakewood Crossing,Allen,Texas,
+700,743,Home,156 Maryland Court,Dallas,Texas,
+701,744,Home,345 Erie Pass,Dallas,Texas,75052
+702,745,Home,4 Mallory Point,Richardson,Texas,
+703,746,Home,8772 Iowa Road,Richardson,Texas,75065
+704,747,Home,57 Hermina Center,Plano,Texas,75025
+705,748,Home,,,,75082
+706,749,Home,,,,75076
+707,751,Home,820 Becker Trail,Richardson,Texas,
+708,752,Home,92 Onsgard Point,Allen,Texas,75043
+709,753,Home,,,,75081
+710,754,Home,6342 Eastwood Trail,Allen,Texas,75008
+711,755,Home,,,,75037
+712,756,Home,,,,75014
+713,757,Home,8332 Larry Center,Addison,Texas,75005
+714,758,Home,66 Jenifer Avenue,Addison,Texas,
+715,759,Home,77474 Anhalt Junction,Plano,Texas,75094
+716,760,Home,23 Scott Plaza,Addison,Texas,75076
+717,761,Home,5236 Linden Park,Dallas,Texas,
+718,762,Home,581 2nd Avenue,Allen,Texas,75029
+719,763,Home,80509 Glendale Circle,Plano,Texas,75076
+720,764,Home,,,,75069
+721,765,Home,905 Muir Circle,Richardson,Texas,75062
+722,767,Home,6190 Sutherland Circle,Dallas,Texas,
+723,768,Home,9022 Shopko Lane,Richardson,Texas,
+724,769,Home,1384 Arizona Road,Richardson,Texas,75046
+725,770,Home,96058 Lakewood Place,Allen,Texas,75028
+726,771,Home,,,,75080
+727,772,Home,63 Jenifer Parkway,Dallas,Texas,
+728,773,Home,120 Loomis Avenue,Dallas,Texas,75086
+729,774,Home,20022 Marcy Hill,Dallas,Texas,75054
+730,775,Home,40973 Victoria Center,Richardson,Texas,75080
+731,777,Home,,,,75010
+732,778,Home,,,,75038
+733,780,Home,32266 Bartillon Avenue,Plano,Texas,
+734,781,Home,42352 Fuller Way,Plano,Texas,
+735,782,Home,75395 Luster Plaza,Dallas,Texas,
+736,783,Home,22617 Farragut Park,Richardson,Texas,75021
+737,784,Home,,,,75088
+738,786,Home,808 Weeping Birch Lane,Addison,Texas,
+739,787,Home,3088 Troy Trail,Richardson,Texas,75074
+740,788,Home,,,,75009
+741,789,Home,72330 Emmet Circle,Plano,Texas,75093
+742,790,Home,7 Armistice Place,Richardson,Texas,75064
+743,791,Home,5 Schmedeman Plaza,Addison,Texas,
+744,792,Home,07 Rockefeller Hill,Allen,Texas,75044
+745,793,Home,84513 Heath Pass,Plano,Texas,75026
+746,794,Home,24976 Eagan Parkway,Addison,Texas,75065
+747,795,Home,,,,75035
+748,796,Home,,,,75039
+749,797,Home,6 Tomscot Point,Addison,Texas,
+750,798,Home,263 1st Street,Allen,Texas,75040
+751,799,Home,75023 Carioca Drive,Plano,Texas,75013
+752,800,Home,16 Acker Center,Addison,Texas,75099
+753,801,Home,903 Becker Avenue,Allen,Texas,75057
+754,802,Home,3649 Judy Pass,Dallas,Texas,
+755,803,Home,959 Tony Alley,Allen,Texas,75012
+756,804,Home,2694 Pankratz Avenue,Allen,Texas,75014
+757,805,Home,23 Waxwing Center,Dallas,Texas,
+758,806,Home,1476 Ramsey Street,Richardson,Texas,75046
+759,807,Home,91870 Nevada Trail,Plano,Texas,75066
+760,808,Home,9 New Castle Hill,Allen,Texas,75043
+761,809,Home,1909 Farmco Alley,Dallas,Texas,75021
+762,810,Home,335 Forest Drive,Allen,Texas,75009
+763,811,Home,24942 Talisman Pass,Allen,Texas,75032
+764,812,Home,2 Bashford Terrace,Richardson,Texas,75064
+765,813,Home,26 Roxbury Terrace,Dallas,Texas,75011
+766,814,Home,28 7th Lane,Allen,Texas,
+767,815,Home,5 Messerschmidt Street,Plano,Texas,75069
+768,816,Home,592 Park Meadow Center,Addison,Texas,75060
+769,817,Home,15752 Lillian Pass,Plano,Texas,75034
+770,818,Home,1159 Harbort Center,Plano,Texas,75007
+771,819,Home,14510 Northfield Street,Dallas,Texas,75023
+772,820,Home,2171 Aberg Crossing,Addison,Texas,
+773,821,Home,5 Dorton Crossing,Dallas,Texas,75050
+774,822,Home,2114 Ramsey Lane,Dallas,Texas,75014
+775,823,Home,05 Oxford Way,Richardson,Texas,
+776,824,Home,4525 Fulton Alley,Dallas,Texas,75070
+777,825,Home,9412 Kennedy Plaza,Richardson,Texas,75050
+778,826,Home,8 Monica Park,Richardson,Texas,75075
+779,827,Home,1 Manley Circle,Richardson,Texas,75052
+780,828,Home,46 Bayside Point,Allen,Texas,75052
+781,829,Home,,,,75006
+782,830,Home,,,,75086
+783,831,Home,14320 Beilfuss Hill,Plano,Texas,75033
+784,832,Home,97 Holmberg Place,Addison,Texas,
+785,833,Home,27 Vahlen Street,Allen,Texas,75040
+786,834,Home,46311 Caliangt Street,Plano,Texas,75030
+787,835,Home,54 Novick Avenue,Plano,Texas,
+788,836,Home,09 Butternut Plaza,Allen,Texas,75044
+789,837,Home,447 7th Pass,Addison,Texas,75038
+790,838,Home,0559 Mosinee Park,Allen,Texas,75020
+791,839,Home,96 Miller Plaza,Richardson,Texas,75098
+792,840,Home,,,,75029
+793,841,Home,1225 Corscot Lane,Plano,Texas,75099
+794,843,Home,31006 Londonderry Pass,Allen,Texas,75065
+795,845,Home,13 Park Meadow Way,Allen,Texas,75065
+796,846,Home,9 Stephen Court,Richardson,Texas,
+797,847,Home,,,,75022
+798,848,Home,827 Riverside Lane,Addison,Texas,75063
+799,849,Home,,,,75032
+800,850,Home,2791 Susan Circle,Richardson,Texas,75093
+801,853,Home,4 Charing Cross Hill,Allen,Texas,75017
+802,854,Home,8314 Dennis Junction,Plano,Texas,75001
+803,855,Home,925 Rieder Junction,Richardson,Texas,75052
+804,856,Home,9 Ohio Street,Plano,Texas,
+805,857,Home,52 2nd Circle,Dallas,Texas,
+806,858,Home,16 Maryland Center,Richardson,Texas,
+807,859,Home,,,,75049
+808,860,Home,7 Fairfield Drive,Plano,Texas,75066
+809,861,Home,,,,75060
+810,862,Home,1295 Warbler Court,Richardson,Texas,75032
+811,863,Home,93552 Muir Plaza,Dallas,Texas,75059
+812,864,Home,8 Stoughton Terrace,Addison,Texas,75096
+813,865,Home,2 Rutledge Lane,Allen,Texas,75019
+814,866,Home,57250 Butternut Alley,Dallas,Texas,75065
+815,868,Home,708 Grover Parkway,Allen,Texas,75083
+816,869,Home,,,,75004
+817,870,Home,8590 Cardinal Place,Richardson,Texas,
+818,871,Home,9 John Wall Terrace,Allen,Texas,75024
+819,872,Home,93 Butterfield Center,Allen,Texas,75084
+820,873,Home,65458 Glacier Hill Plaza,Dallas,Texas,75064
+821,874,Home,2498 Quincy Lane,Dallas,Texas,
+822,875,Home,959 Hallows Plaza,Dallas,Texas,75061
+823,876,Home,60 Ridgeway Plaza,Addison,Texas,
+824,877,Home,7272 Hayes Point,Allen,Texas,75008
+825,878,Home,6 Golf Parkway,Richardson,Texas,75003
+826,879,Home,2 Grover Plaza,Richardson,Texas,75038
+827,880,Home,17226 Arapahoe Parkway,Richardson,Texas,
+828,882,Home,25 Arrowood Circle,Richardson,Texas,75053
+829,883,Home,9 Springs Circle,Addison,Texas,75021
+830,884,Home,84964 Division Avenue,Plano,Texas,75022
+831,885,Home,849 1st Circle,Plano,Texas,
+832,886,Home,,,,75038
+833,888,Home,,,,75019
+834,889,Home,84 Schmedeman Lane,Richardson,Texas,75022
+835,890,Home,9 Montana Plaza,Dallas,Texas,75061
+836,891,Home,,,,75010
+837,892,Home,25181 La Follette Place,Dallas,Texas,75056
+838,893,Home,,,,75065
+839,894,Home,8118 Eastlawn Parkway,Allen,Texas,75057
+840,895,Home,951 Forest Run Plaza,Richardson,Texas,75064
+841,896,Home,,,,75013
+842,897,Home,5013 Ilene Hill,Dallas,Texas,
+843,898,Home,8 Blaine Pass,Addison,Texas,
+844,899,Home,9463 Lake View Road,Allen,Texas,75059
+845,900,Home,334 Almo Avenue,Dallas,Texas,75070
+846,901,Home,9 Moulton Avenue,Richardson,Texas,75052
+847,902,Home,0695 Dakota Terrace,Addison,Texas,75069
+848,903,Home,472 Kennedy Road,Addison,Texas,75032
+849,904,Home,9772 Eastwood Circle,Richardson,Texas,75080
+850,905,Home,08299 Lillian Drive,Allen,Texas,75076
+851,906,Home,4 Porter Circle,Addison,Texas,75016
+852,907,Home,904 Fremont Way,Allen,Texas,75090
+853,908,Home,43 Randy Avenue,Richardson,Texas,
+854,909,Home,87470 Northfield Circle,Allen,Texas,75088
+855,910,Home,72792 Donald Avenue,Richardson,Texas,
+856,911,Home,3 Walton Point,Plano,Texas,75064
+857,912,Home,06 Reinke Point,Addison,Texas,
+858,913,Home,,,,75083
+859,914,Home,,,,75085
+860,915,Home,26218 Prairieview Road,Allen,Texas,
+861,916,Home,5181 Hanson Avenue,Dallas,Texas,75087
+862,917,Home,50 Eastwood Junction,Dallas,Texas,75045
+863,918,Home,8 Dapin Center,Dallas,Texas,
+864,919,Home,,,,75009
+865,920,Home,20776 Wayridge Hill,Richardson,Texas,
+866,921,Home,,,,75006
+867,922,Home,34866 Lindbergh Circle,Allen,Texas,75086
+868,923,Home,11950 Meadow Ridge Street,Addison,Texas,75086
+869,924,Home,634 Dennis Drive,Plano,Texas,75054
+870,925,Home,6 Steensland Plaza,Plano,Texas,75037
+871,926,Home,0 Haas Alley,Plano,Texas,
+872,927,Home,9835 Kropf Terrace,Dallas,Texas,75009
+873,928,Home,,,,75018
+874,929,Home,4768 Bay Pass,Richardson,Texas,
+875,930,Home,93 Lotheville Hill,Allen,Texas,75089
+876,931,Home,9 Longview Pass,Richardson,Texas,
+877,932,Home,16872 Mosinee Place,Addison,Texas,75033
+878,934,Home,5271 Drewry Circle,Plano,Texas,
+879,935,Home,64 Morningstar Junction,Allen,Texas,75075
+880,936,Home,16689 Sunfield Center,Addison,Texas,
+881,937,Home,8 Granby Junction,Dallas,Texas,75093
+882,938,Home,0 Grim Trail,Dallas,Texas,75026
+883,939,Home,306 Graceland Drive,Addison,Texas,75094
+884,940,Home,4191 Del Sol Street,Allen,Texas,75049
+885,941,Home,290 Londonderry Drive,Plano,Texas,
+886,942,Home,3 Saint Paul Pass,Allen,Texas,75064
+887,943,Home,66 Surrey Circle,Dallas,Texas,75082
+888,945,Home,51 Northridge Court,Addison,Texas,75010
+889,946,Home,4 John Wall Park,Plano,Texas,75067
+890,947,Home,,,,75020
+891,948,Home,88714 Hayes Junction,Addison,Texas,75005
+892,949,Home,497 Macpherson Alley,Dallas,Texas,75018
+893,950,Home,06661 Westport Plaza,Plano,Texas,75073
+894,951,Home,46513 Granby Lane,Plano,Texas,
+895,952,Home,5 Merry Crossing,Richardson,Texas,75055
+896,953,Home,83 Mcguire Plaza,Plano,Texas,75092
+897,954,Home,88888 Anthes Park,Allen,Texas,75033
+898,955,Home,2167 Village Green Hill,Dallas,Texas,75077
+899,956,Home,,,,75074
+900,957,Home,336 Petterle Street,Richardson,Texas,75087
+901,958,Home,1 Ludington Place,Addison,Texas,
+902,959,Home,35 Judy Street,Allen,Texas,
+903,960,Home,,,,75086
+904,961,Home,5 Mockingbird Point,Allen,Texas,75006
+905,962,Home,,,,75008
+906,963,Home,5 Harper Crossing,Allen,Texas,75069
+907,964,Home,,,,75032
+908,965,Home,768 Brentwood Crossing,Allen,Texas,
+909,967,Home,053 Dakota Avenue,Addison,Texas,75073
+910,968,Home,31568 Dakota Crossing,Richardson,Texas,75024
+911,969,Home,489 Quincy Hill,Plano,Texas,75035
+912,970,Home,6 Rutledge Parkway,Dallas,Texas,75047
+913,971,Home,5452 Walton Junction,Richardson,Texas,75074
+914,972,Home,22 Dwight Center,Addison,Texas,75033
+915,973,Home,9 Kim Alley,Plano,Texas,75083
+916,974,Home,17 Killdeer Parkway,Addison,Texas,75087
+917,975,Home,70338 Clyde Gallagher Street,Dallas,Texas,75036
+918,976,Home,204 Caliangt Way,Dallas,Texas,75049
+919,978,Home,7637 Burrows Alley,Addison,Texas,75085
+920,979,Home,,,,75001
+921,980,Home,0 Colorado Way,Richardson,Texas,
+922,981,Home,07151 Anderson Trail,Allen,Texas,75079
+923,982,Home,0 Annamark Alley,Allen,Texas,75098
+924,983,Home,5 Coleman Lane,Dallas,Texas,75001
+925,984,Home,853 5th Terrace,Richardson,Texas,
+926,985,Home,46789 Moulton Crossing,Addison,Texas,75099
+927,987,Home,1 Thierer Drive,Richardson,Texas,75017
+928,988,Home,7 Brown Hill,Addison,Texas,75077
+929,989,Home,8 Huxley Junction,Plano,Texas,75029
+930,990,Home,70 Del Mar Junction,Plano,Texas,75062
+931,991,Home,5228 Commercial Crossing,Allen,Texas,
+932,992,Home,5 Blue Bill Park Street,Plano,Texas,75003
+933,993,Home,51469 Becker Point,Dallas,Texas,75014
+934,994,Home,583 Manufacturers Avenue,Richardson,Texas,
+935,995,Home,0648 Lakewood Street,Plano,Texas,75006
+936,996,Home,13 Main Way,Addison,Texas,75089
+937,997,Home,782 Lighthouse Bay Pass,Allen,Texas,75060
+938,998,Home,008 Ryan Center,Plano,Texas,
+939,999,Home,5729 Farragut Plaza,Dallas,Texas,75079
+940,1000,Home,18201 Novick Circle,Richardson,Texas,75037
+941,1,Work,90103 Glacier Hill Terrace,Plano,Texas,75003
+942,2,Work,37 Sommers Hill,Addison,Texas,75006
+943,4,Work,3 Mccormick Parkway,Allen,Texas,75008
+944,5,Work,35836 Banding Way,Richardson,Texas,75004
+945,6,Work,44 Farragut Avenue,Addison,Texas,75009
+946,8,Work,363 Truax Trail,Addison,Texas,75005
+947,9,Work,17 Clyde Gallagher Alley,Richardson,Texas,75007
+948,13,Work,8705 West Junction,Addison,Texas,75008
+949,17,Work,3522 Butternut Place,Plano,Texas,75001
+950,20,Work,51819 Donald Trail,Richardson,Texas,75002
+951,22,Work,3715 Muir Park,Dallas,Texas,75005
+952,23,Work,4 Emmet Junction,Plano,Texas,75004
+953,25,Work,2 Lillian Drive,Addison,Texas,75001
+954,26,Work,6 Michigan Pass,Dallas,Texas,75004
+955,27,Work,2408 Riverside Parkway,Plano,Texas,75007
+956,31,Work,81910 Towne Hill,Plano,Texas,75007
+957,34,Work,2 Farwell Park,Allen,Texas,75008
+958,35,Work,5031 Service Trail,Dallas,Texas,75003
+959,36,Work,1096 5th Drive,Richardson,Texas,75008
+960,39,Work,868 Continental Road,Plano,Texas,75005
+961,40,Work,66986 Vidon Trail,Richardson,Texas,75003
+962,41,Work,8 Luster Circle,Addison,Texas,75004
+963,42,Work,97544 Arizona Crossing,Allen,Texas,75001
+964,43,Work,3 5th Junction,Dallas,Texas,75008
+965,46,Work,08 Everett Crossing,Plano,Texas,75005
+966,47,Work,394 Mayfield Drive,Plano,Texas,75002
+967,49,Work,7 Talisman Alley,Allen,Texas,75004
+968,50,Work,3 Redwing Terrace,Dallas,Texas,75006
+969,51,Work,33 Melby Park,Allen,Texas,75003
+970,55,Work,9562 Northfield Park,Plano,Texas,75009
+971,56,Work,853 Mayfield Place,Allen,Texas,75005
+972,58,Work,65588 Claremont Plaza,Plano,Texas,75001
+973,59,Work,8 Kings Crossing,Allen,Texas,75004
+974,61,Work,4 Saint Paul Junction,Dallas,Texas,75006
+975,62,Work,095 Hagan Center,Plano,Texas,75003
+976,64,Work,00 Haas Road,Allen,Texas,75009
+977,65,Work,928 Charing Cross Alley,Plano,Texas,75007
+978,66,Work,3682 American Road,Richardson,Texas,75003
+979,68,Work,23469 Annamark Center,Richardson,Texas,75002
+980,70,Work,455 Westend Point,Dallas,Texas,75003
+981,73,Work,9 Mandrake Place,Allen,Texas,75004
+982,74,Work,4 Ilene Junction,Richardson,Texas,75009
+983,76,Work,316 Eagan Circle,Richardson,Texas,75007
+984,80,Work,23 Debra Road,Plano,Texas,75003
+985,84,Work,82238 Ludington Park,Addison,Texas,75003
+986,85,Work,005 Derek Terrace,Richardson,Texas,75002
+987,86,Work,351 Shelley Court,Richardson,Texas,75001
+988,87,Work,4 Golf Avenue,Plano,Texas,75007
+989,89,Work,7807 Dakota Pass,Addison,Texas,75006
+990,91,Work,55 Ridgeway Drive,Addison,Texas,75008
+991,92,Work,2 Dennis Alley,Dallas,Texas,75002
+992,94,Work,852 Burning Wood Pass,Addison,Texas,75005
+993,96,Work,6678 Service Circle,Addison,Texas,75008
+994,99,Work,5445 Buhler Parkway,Allen,Texas,75003
+995,101,Work,73814 Gerald Park,Plano,Texas,75002
+996,105,Work,29479 Porter Point,Dallas,Texas,75005
+997,106,Work,9528 Loftsgordon Junction,Allen,Texas,75003
+998,107,Work,3105 Autumn Leaf Court,Plano,Texas,75001
+999,108,Work,3175 Green Ridge Court,Richardson,Texas,75008
+1000,109,Work,876 Washington Terrace,Plano,Texas,75004
+1001,110,Work,92 Mcbride Road,Plano,Texas,75005
+1002,111,Work,738 Commercial Road,Addison,Texas,75002
+1003,115,Work,1 Loomis Lane,Richardson,Texas,75002
+1004,116,Work,396 3rd Alley,Allen,Texas,75002
+1005,119,Work,80574 Eliot Road,Plano,Texas,75001
+1006,120,Work,5996 Fairview Trail,Richardson,Texas,75005
+1007,123,Work,07 Butternut Avenue,Allen,Texas,75005
+1008,126,Work,702 Maple Wood Circle,Allen,Texas,75002
+1009,128,Work,7948 Sunbrook Crossing,Allen,Texas,75008
+1010,134,Work,7869 Onsgard Pass,Addison,Texas,75008
+1011,136,Work,977 2nd Road,Addison,Texas,75006
+1012,137,Work,077 Ilene Terrace,Plano,Texas,75001
+1013,138,Work,6 6th Pass,Richardson,Texas,75002
+1014,141,Work,83 Namekagon Lane,Dallas,Texas,75001
+1015,142,Work,49298 Pierstorff Center,Richardson,Texas,75009
+1016,143,Work,255 Lukken Court,Richardson,Texas,75001
+1017,144,Work,62089 Transport Plaza,Plano,Texas,75001
+1018,145,Work,5874 Granby Alley,Allen,Texas,75008
+1019,147,Work,563 Kedzie Court,Addison,Texas,75004
+1020,150,Work,0 Blue Bill Park Pass,Allen,Texas,75001
+1021,156,Work,67 Evergreen Way,Richardson,Texas,75004
+1022,158,Work,7390 Brickson Park Junction,Dallas,Texas,75002
+1023,160,Work,555 Macpherson Point,Allen,Texas,75009
+1024,161,Work,2 Prentice Park,Addison,Texas,75004
+1025,162,Work,50 John Wall Street,Allen,Texas,75006
+1026,164,Work,435 Dwight Pass,Plano,Texas,75006
+1027,165,Work,00464 Kenwood Circle,Richardson,Texas,75003
+1028,167,Work,4368 Montana Parkway,Richardson,Texas,75006
+1029,169,Work,25 Scofield Pass,Allen,Texas,75008
+1030,172,Work,8 Jenifer Terrace,Richardson,Texas,75008
+1031,173,Work,06606 Cordelia Way,Plano,Texas,75007
+1032,175,Work,32 Farragut Drive,Dallas,Texas,75009
+1033,176,Work,73397 Blaine Trail,Dallas,Texas,75002
+1034,179,Work,2930 Reindahl Pass,Dallas,Texas,75003
+1035,180,Work,5 Pond Place,Addison,Texas,75008
+1036,181,Work,5540 Luster Center,Allen,Texas,75004
+1037,183,Work,95 Barnett Terrace,Dallas,Texas,75009
+1038,184,Work,719 Kensington Park,Allen,Texas,75009
+1039,185,Work,1202 Autumn Leaf Street,Addison,Texas,75007
+1040,188,Work,4440 Spenser Pass,Allen,Texas,75002
+1041,192,Work,0 Porter Place,Dallas,Texas,75001
+1042,196,Work,386 Cordelia Crossing,Richardson,Texas,75009
+1043,198,Work,46162 Fuller Drive,Dallas,Texas,75005
+1044,199,Work,12259 Ruskin Crossing,Addison,Texas,75008
+1045,201,Work,7321 Declaration Alley,Addison,Texas,75006
+1046,204,Work,50544 Sutherland Drive,Addison,Texas,75008
+1047,206,Work,74 Thackeray Road,Dallas,Texas,75008
+1048,207,Work,4155 Holmberg Avenue,Plano,Texas,75003
+1049,210,Work,26 Cardinal Point,Dallas,Texas,75007
+1050,212,Work,59544 Tomscot Pass,Dallas,Texas,75006
+1051,213,Work,66 Valley Edge Terrace,Richardson,Texas,75001
+1052,216,Work,858 Red Cloud Trail,Dallas,Texas,75002
+1053,217,Work,019 Utah Circle,Addison,Texas,75004
+1054,218,Work,14 Talisman Street,Allen,Texas,75009
+1055,222,Work,4 Roth Road,Allen,Texas,75009
+1056,223,Work,75 Evergreen Road,Addison,Texas,75005
+1057,227,Work,644 Towne Junction,Dallas,Texas,75004
+1058,229,Work,3387 Old Shore Pass,Richardson,Texas,75005
+1059,233,Work,049 Lerdahl Avenue,Plano,Texas,75002
+1060,239,Work,49001 Superior Place,Addison,Texas,75004
+1061,241,Work,2975 Clemons Junction,Allen,Texas,75002
+1062,242,Work,40898 Sunbrook Junction,Plano,Texas,75009
+1063,243,Work,58664 Florence Center,Addison,Texas,75003
+1064,244,Work,8 Little Fleur Road,Richardson,Texas,75006
+1065,247,Work,48607 Pankratz Crossing,Dallas,Texas,75008
+1066,248,Work,960 Sunnyside Hill,Dallas,Texas,75009
+1067,249,Work,71 Gerald Road,Dallas,Texas,75007
+1068,251,Work,9 Declaration Street,Richardson,Texas,75005
+1069,252,Work,12969 Lighthouse Bay Lane,Addison,Texas,75005
+1070,253,Work,0615 Hooker Way,Richardson,Texas,75002
+1071,254,Work,8412 Anhalt Road,Richardson,Texas,75001
+1072,255,Work,00752 Carey Avenue,Addison,Texas,75006
+1073,256,Work,7529 Upham Drive,Allen,Texas,75009
+1074,258,Work,1 Paget Trail,Addison,Texas,75001
+1075,262,Work,21 Summit Terrace,Addison,Texas,75005
+1076,263,Work,6 Fremont Park,Allen,Texas,75009
+1077,264,Work,1 Prentice Terrace,Addison,Texas,75008
+1078,265,Work,93 Waywood Way,Richardson,Texas,75009
+1079,266,Work,1 Drewry Alley,Allen,Texas,75006
+1080,267,Work,61216 Tony Lane,Allen,Texas,75002
+1081,271,Work,01 Delaware Parkway,Addison,Texas,75001
+1082,272,Work,1139 Saint Paul Way,Addison,Texas,75008
+1083,273,Work,51 Swallow Circle,Addison,Texas,75002
+1084,275,Work,5212 Brown Way,Plano,Texas,75005
+1085,276,Work,85 Portage Point,Dallas,Texas,75009
+1086,279,Work,3 Melvin Parkway,Allen,Texas,75006
+1087,282,Work,254 Judy Parkway,Richardson,Texas,75005
+1088,286,Work,59935 High Crossing Park,Richardson,Texas,75003
+1089,288,Work,11982 Fordem Alley,Allen,Texas,75009
+1090,290,Work,318 Grover Hill,Dallas,Texas,75005
+1091,291,Work,91 Barnett Drive,Richardson,Texas,75008
+1092,292,Work,323 Westridge Alley,Richardson,Texas,75002
+1093,296,Work,4137 Almo Street,Richardson,Texas,75004
+1094,300,Work,8357 Lakewood Point,Plano,Texas,75002
+1095,304,Work,5917 Upham Point,Addison,Texas,75005
+1096,308,Work,626 Lakewood Gardens Circle,Plano,Texas,75005
+1097,309,Work,0 Del Sol Avenue,Addison,Texas,75003
+1098,310,Work,39649 Esker Center,Dallas,Texas,75005
+1099,313,Work,7726 Anderson Park,Plano,Texas,75002
+1100,314,Work,59368 Briar Crest Crossing,Allen,Texas,75007
+1101,315,Work,8191 Holmberg Avenue,Allen,Texas,75002
+1102,320,Work,38748 Merry Lane,Plano,Texas,75009
+1103,323,Work,449 Stang Court,Richardson,Texas,75001
+1104,324,Work,3 Harbort Pass,Dallas,Texas,75006
+1105,325,Work,9 Hansons Terrace,Addison,Texas,75007
+1106,327,Work,409 Mayfield Trail,Allen,Texas,75001
+1107,329,Work,5 Golf Avenue,Dallas,Texas,75003
+1108,331,Work,8 Mockingbird Place,Addison,Texas,75004
+1109,333,Work,5289 Jay Park,Plano,Texas,75005
+1110,337,Work,65279 Dakota Avenue,Richardson,Texas,75009
+1111,340,Work,8504 Sunfield Hill,Richardson,Texas,75004
+1112,341,Work,9 Truax Court,Plano,Texas,75006
+1113,342,Work,795 Merchant Center,Addison,Texas,75008
+1114,345,Work,29889 Bunting Trail,Richardson,Texas,75009
+1115,346,Work,8 Homewood Hill,Allen,Texas,75009
+1116,348,Work,1678 Kings Court,Dallas,Texas,75007
+1117,349,Work,7906 Dovetail Hill,Richardson,Texas,75005
+1118,351,Work,595 Mesta Center,Richardson,Texas,75004
+1119,352,Work,558 Annamark Parkway,Addison,Texas,75008
+1120,355,Work,93 Ruskin Hill,Richardson,Texas,75002
+1121,356,Work,9359 Independence Road,Addison,Texas,75004
+1122,357,Work,20 Florence Road,Addison,Texas,75003
+1123,358,Work,7481 Orin Crossing,Dallas,Texas,75001
+1124,362,Work,9 Ramsey Point,Dallas,Texas,75003
+1125,363,Work,5 Schlimgen Junction,Plano,Texas,75001
+1126,364,Work,78 Anhalt Way,Dallas,Texas,75006
+1127,366,Work,68 Crownhardt Drive,Addison,Texas,75001
+1128,369,Work,8437 Debra Street,Richardson,Texas,75001
+1129,370,Work,56443 Merchant Court,Dallas,Texas,75002
+1130,371,Work,27520 Coleman Junction,Addison,Texas,75001
+1131,372,Work,79 Farragut Junction,Addison,Texas,75008
+1132,373,Work,34948 Sunnyside Center,Dallas,Texas,75007
+1133,374,Work,3233 Southridge Parkway,Allen,Texas,75006
+1134,375,Work,6 Sauthoff Park,Dallas,Texas,75001
+1135,379,Work,22 Burrows Circle,Plano,Texas,75003
+1136,381,Work,9813 Brickson Park Pass,Addison,Texas,75004
+1137,382,Work,1 Golf Circle,Plano,Texas,75001
+1138,383,Work,06 Anniversary Crossing,Addison,Texas,75001
+1139,384,Work,9 Mifflin Point,Richardson,Texas,75001
+1140,386,Work,307 Anhalt Point,Addison,Texas,75006
+1141,387,Work,6 Canary Center,Addison,Texas,75004
+1142,388,Work,88 Mifflin Hill,Dallas,Texas,75003
+1143,390,Work,041 Grover Avenue,Richardson,Texas,75008
+1144,392,Work,91 Katie Lane,Dallas,Texas,75002
+1145,394,Work,20 Barby Parkway,Addison,Texas,75003
+1146,395,Work,634 Schiller Hill,Plano,Texas,75002
+1147,399,Work,33845 Drewry Terrace,Plano,Texas,75002
+1148,401,Work,75007 Village Parkway,Richardson,Texas,75007
+1149,402,Work,764 Tennyson Center,Allen,Texas,75002
+1150,403,Work,557 Daystar Parkway,Allen,Texas,75005
+1151,405,Work,74472 Valley Edge Crossing,Allen,Texas,75009
+1152,407,Work,7 Northwestern Terrace,Allen,Texas,75007
+1153,408,Work,906 Mcguire Junction,Richardson,Texas,75009
+1154,410,Work,0 7th Avenue,Plano,Texas,75003
+1155,412,Work,03 Dorton Point,Addison,Texas,75007
+1156,415,Work,0792 Reindahl Terrace,Plano,Texas,75006
+1157,417,Work,816 Riverside Alley,Addison,Texas,75002
+1158,420,Work,430 Mcbride Street,Richardson,Texas,75009
+1159,421,Work,0602 Old Shore Place,Plano,Texas,75008
+1160,422,Work,335 Fremont Park,Addison,Texas,75002
+1161,423,Work,322 Declaration Trail,Dallas,Texas,75002
+1162,424,Work,9 Hanover Park,Addison,Texas,75001
+1163,425,Work,532 Truax Drive,Plano,Texas,75001
+1164,426,Work,31345 Manley Crossing,Allen,Texas,75003
+1165,429,Work,6 8th Place,Addison,Texas,75005
+1166,430,Work,50840 Tomscot Lane,Allen,Texas,75008
+1167,434,Work,2683 Comanche Court,Allen,Texas,75004
+1168,435,Work,049 Waywood Crossing,Dallas,Texas,75006
+1169,442,Work,56 Carpenter Plaza,Dallas,Texas,75006
+1170,443,Work,89656 Gateway Junction,Richardson,Texas,75001
+1171,444,Work,80 High Crossing Pass,Dallas,Texas,75006
+1172,446,Work,0830 Kingsford Center,Richardson,Texas,75006
+1173,447,Work,18 Dexter Point,Dallas,Texas,75001
+1174,453,Work,539 Canary Point,Plano,Texas,75005
+1175,455,Work,98 Harper Avenue,Plano,Texas,75007
+1176,456,Work,73795 Red Cloud Crossing,Richardson,Texas,75005
+1177,460,Work,57092 Clarendon Lane,Allen,Texas,75005
+1178,465,Work,694 High Crossing Drive,Richardson,Texas,75002
+1179,466,Work,64077 Stuart Street,Allen,Texas,75001
+1180,467,Work,0603 Debs Terrace,Richardson,Texas,75003
+1181,469,Work,83 Anderson Parkway,Allen,Texas,75004
+1182,470,Work,5059 Summer Ridge Circle,Addison,Texas,75007
+1183,471,Work,17 Blaine Court,Allen,Texas,75006
+1184,472,Work,10 Nobel Road,Richardson,Texas,75008
+1185,478,Work,0 Lakewood Plaza,Richardson,Texas,75001
+1186,479,Work,4 Grim Road,Allen,Texas,75007
+1187,481,Work,7 Starling Lane,Plano,Texas,75004
+1188,487,Work,3021 Fairview Drive,Plano,Texas,75007
+1189,490,Work,5 Bluejay Point,Plano,Texas,75008
+1190,493,Work,100 Forest Dale Court,Plano,Texas,75005
+1191,498,Work,2151 Del Mar Junction,Dallas,Texas,75006
+1192,500,Work,9274 Vermont Circle,Addison,Texas,75001
+1193,506,Work,80047 Delladonna Pass,Richardson,Texas,75003
+1194,509,Work,74991 Prairieview Alley,Richardson,Texas,75006
+1195,513,Work,7354 Harbort Lane,Dallas,Texas,75007
+1196,516,Work,7862 Stephen Park,Addison,Texas,75003
+1197,518,Work,69908 School Way,Allen,Texas,75003
+1198,519,Work,3 Shopko Avenue,Addison,Texas,75001
+1199,520,Work,1 Lotheville Parkway,Dallas,Texas,75001
+1200,521,Work,93 Lillian Hill,Richardson,Texas,75009
+1201,523,Work,79568 Oxford Plaza,Addison,Texas,75008
+1202,524,Work,22928 Delaware Terrace,Addison,Texas,75009
+1203,527,Work,6988 Eastlawn Terrace,Dallas,Texas,75007
+1204,528,Work,8 Summer Ridge Drive,Plano,Texas,75002
+1205,529,Work,309 Dorton Street,Addison,Texas,75001
+1206,531,Work,7 Homewood Park,Richardson,Texas,75009
+1207,533,Work,8 Randy Court,Addison,Texas,75002
+1208,535,Work,115 Kropf Alley,Dallas,Texas,75008
+1209,537,Work,0718 Oneill Court,Dallas,Texas,75001
+1210,540,Work,0456 Messerschmidt Junction,Addison,Texas,75008
+1211,546,Work,6123 Lighthouse Bay Point,Richardson,Texas,75004
+1212,547,Work,250 Glacier Hill Circle,Dallas,Texas,75001
+1213,549,Work,300 Crest Line Point,Richardson,Texas,75004
+1214,550,Work,865 Declaration Court,Dallas,Texas,75009
+1215,553,Work,03646 Katie Terrace,Plano,Texas,75005
+1216,556,Work,89192 Dexter Court,Addison,Texas,75008
+1217,557,Work,150 Park Meadow Drive,Plano,Texas,75001
+1218,560,Work,83189 Tony Road,Addison,Texas,75002
+1219,562,Work,10495 Melby Point,Allen,Texas,75002
+1220,568,Work,55 Vidon Drive,Allen,Texas,75004
+1221,570,Work,446 Nova Road,Richardson,Texas,75006
+1222,572,Work,66 Paget Point,Addison,Texas,75006
+1223,573,Work,51 Welch Road,Plano,Texas,75006
+1224,574,Work,40 Stoughton Road,Allen,Texas,75007
+1225,575,Work,86178 Hoffman Place,Richardson,Texas,75008
+1226,576,Work,97573 Westport Street,Dallas,Texas,75006
+1227,577,Work,768 Manley Road,Addison,Texas,75008
+1228,579,Work,76477 Hintze Drive,Plano,Texas,75009
+1229,580,Work,942 Superior Terrace,Allen,Texas,75002
+1230,581,Work,6705 Tennyson Junction,Allen,Texas,75009
+1231,582,Work,01518 Gina Terrace,Allen,Texas,75008
+1232,583,Work,3 Upham Pass,Addison,Texas,75002
+1233,584,Work,34 Pennsylvania Alley,Addison,Texas,75005
+1234,586,Work,360 Miller Crossing,Richardson,Texas,75001
+1235,587,Work,938 Sherman Parkway,Addison,Texas,75005
+1236,589,Work,2 Del Mar Crossing,Richardson,Texas,75009
+1237,591,Work,1470 Fieldstone Point,Addison,Texas,75002
+1238,594,Work,6446 7th Point,Addison,Texas,75002
+1239,596,Work,2787 Gulseth Way,Addison,Texas,75004
+1240,601,Work,7 3rd Park,Plano,Texas,75008
+1241,602,Work,297 Stang Circle,Dallas,Texas,75008
+1242,604,Work,158 Lunder Park,Allen,Texas,75004
+1243,605,Work,73510 Forest Trail,Allen,Texas,75006
+1244,606,Work,659 Continental Plaza,Dallas,Texas,75005
+1245,608,Work,0780 Spohn Hill,Plano,Texas,75001
+1246,609,Work,14 Magdeline Point,Addison,Texas,75008
+1247,611,Work,7 Mockingbird Pass,Addison,Texas,75004
+1248,615,Work,57 Cambridge Crossing,Dallas,Texas,75009
+1249,616,Work,0 Valley Edge Alley,Addison,Texas,75001
+1250,618,Work,80162 Warner Park,Allen,Texas,75008
+1251,620,Work,90323 Grover Lane,Plano,Texas,75008
+1252,623,Work,5660 Corry Lane,Allen,Texas,75008
+1253,625,Work,4889 Scott Junction,Richardson,Texas,75004
+1254,628,Work,4865 Southridge Park,Allen,Texas,75006
+1255,629,Work,00 Messerschmidt Street,Richardson,Texas,75009
+1256,630,Work,0557 Stephen Road,Plano,Texas,75005
+1257,631,Work,95630 Old Shore Way,Allen,Texas,75007
+1258,632,Work,926 Vera Drive,Plano,Texas,75003
+1259,634,Work,13 Golf View Point,Addison,Texas,75005
+1260,636,Work,6565 Delaware Road,Richardson,Texas,75001
+1261,637,Work,99883 Crescent Oaks Court,Richardson,Texas,75004
+1262,638,Work,90 Lunder Center,Dallas,Texas,75009
+1263,640,Work,31 Straubel Trail,Dallas,Texas,75007
+1264,642,Work,09 Fairfield Way,Richardson,Texas,75002
+1265,644,Work,19679 Farmco Pass,Plano,Texas,75002
+1266,645,Work,8 Columbus Hill,Dallas,Texas,75002
+1267,646,Work,29421 Ludington Road,Addison,Texas,75006
+1268,647,Work,9142 Russell Trail,Richardson,Texas,75004
+1269,650,Work,21491 Spaight Lane,Allen,Texas,75004
+1270,651,Work,39 Straubel Circle,Plano,Texas,75001
+1271,652,Work,43 Bultman Lane,Plano,Texas,75005
+1272,653,Work,53 Eastlawn Park,Plano,Texas,75004
+1273,654,Work,26 Hanson Drive,Richardson,Texas,75004
+1274,655,Work,830 Dovetail Terrace,Addison,Texas,75009
+1275,658,Work,16847 Jay Terrace,Allen,Texas,75009
+1276,664,Work,3 Waubesa Alley,Allen,Texas,75002
+1277,665,Work,72229 Harbort Plaza,Richardson,Texas,75007
+1278,668,Work,6621 Bay Point,Dallas,Texas,75007
+1279,674,Work,45 Pierstorff Parkway,Richardson,Texas,75005
+1280,676,Work,97 Main Park,Addison,Texas,75009
+1281,678,Work,00 Butterfield Drive,Richardson,Texas,75004
+1282,679,Work,03953 Bobwhite Plaza,Plano,Texas,75005
+1283,682,Work,20891 Vernon Plaza,Dallas,Texas,75004
+1284,683,Work,8642 Havey Plaza,Plano,Texas,75002
+1285,686,Work,38283 Kennedy Court,Richardson,Texas,75005
+1286,687,Work,2576 Kennedy Road,Allen,Texas,75005
+1287,688,Work,534 Menomonie Street,Dallas,Texas,75007
+1288,690,Work,15426 Duke Hill,Plano,Texas,75008
+1289,691,Work,266 Jana Plaza,Plano,Texas,75001
+1290,692,Work,75536 Sauthoff Pass,Addison,Texas,75003
+1291,693,Work,68443 Bonner Junction,Allen,Texas,75009
+1292,694,Work,8198 Graedel Terrace,Allen,Texas,75009
+1293,697,Work,91786 Rockefeller Drive,Addison,Texas,75002
+1294,698,Work,3847 Morningstar Court,Richardson,Texas,75002
+1295,699,Work,26 Banding Trail,Allen,Texas,75002
+1296,701,Work,6941 Superior Hill,Plano,Texas,75001
+1297,702,Work,83998 Donald Avenue,Addison,Texas,75003
+1298,705,Work,1322 Fair Oaks Park,Allen,Texas,75001
+1299,706,Work,06754 Meadow Vale Center,Dallas,Texas,75001
+1300,709,Work,93 Moose Alley,Richardson,Texas,75004
+1301,714,Work,55290 Meadow Vale Lane,Allen,Texas,75002
+1302,715,Work,01053 Pond Terrace,Plano,Texas,75007
+1303,716,Work,2 Meadow Vale Avenue,Addison,Texas,75003
+1304,725,Work,8180 Brickson Park Hill,Richardson,Texas,75005
+1305,726,Work,2 Hollow Ridge Point,Allen,Texas,75005
+1306,727,Work,059 Twin Pines Plaza,Dallas,Texas,75007
+1307,728,Work,66535 Red Cloud Alley,Richardson,Texas,75007
+1308,733,Work,35 Stang Lane,Richardson,Texas,75001
+1309,734,Work,72441 Thierer Plaza,Addison,Texas,75008
+1310,737,Work,35366 Transport Terrace,Addison,Texas,75001
+1311,738,Work,013 Northview Court,Addison,Texas,75007
+1312,742,Work,1 Lillian Center,Richardson,Texas,75004
+1313,744,Work,902 Emmet Place,Allen,Texas,75008
+1314,746,Work,9410 Northridge Crossing,Richardson,Texas,75005
+1315,747,Work,9130 Maple Crossing,Allen,Texas,75003
+1316,748,Work,2 Rusk Crossing,Plano,Texas,75002
+1317,749,Work,0 Red Cloud Drive,Richardson,Texas,75006
+1318,751,Work,81 Dunning Point,Allen,Texas,75005
+1319,752,Work,1 Dixon Circle,Richardson,Texas,75003
+1320,755,Work,28986 Bunker Hill Plaza,Allen,Texas,75002
+1321,761,Work,69224 Prentice Alley,Richardson,Texas,75008
+1322,763,Work,93 Division Circle,Richardson,Texas,75005
+1323,767,Work,379 Eliot Junction,Addison,Texas,75008
+1324,769,Work,69 Clove Drive,Addison,Texas,75005
+1325,771,Work,096 Claremont Circle,Dallas,Texas,75005
+1326,772,Work,93380 Northfield Hill,Addison,Texas,75001
+1327,773,Work,06050 Sunbrook Park,Plano,Texas,75001
+1328,774,Work,8 Nova Circle,Dallas,Texas,75001
+1329,775,Work,35503 Melvin Parkway,Dallas,Texas,75003
+1330,776,Work,19 Heffernan Terrace,Dallas,Texas,75004
+1331,778,Work,6157 Ramsey Alley,Plano,Texas,75008
+1332,780,Work,489 Heath Street,Allen,Texas,75002
+1333,782,Work,5 Eastlawn Terrace,Richardson,Texas,75006
+1334,783,Work,939 Ohio Terrace,Allen,Texas,75009
+1335,785,Work,0031 Briar Crest Alley,Plano,Texas,75006
+1336,786,Work,6117 Jenna Place,Allen,Texas,75007
+1337,788,Work,3434 Reindahl Road,Addison,Texas,75004
+1338,790,Work,4 Service Park,Plano,Texas,75002
+1339,791,Work,8 Carberry Road,Plano,Texas,75007
+1340,793,Work,56 Evergreen Circle,Richardson,Texas,75002
+1341,794,Work,8 Alpine Lane,Dallas,Texas,75004
+1342,795,Work,1783 Glendale Alley,Dallas,Texas,75003
+1343,796,Work,96 Calypso Lane,Dallas,Texas,75001
+1344,798,Work,9925 Algoma Pass,Allen,Texas,75006
+1345,800,Work,83 Prairieview Circle,Allen,Texas,75002
+1346,801,Work,4 Springs Avenue,Dallas,Texas,75009
+1347,803,Work,7323 Monica Circle,Richardson,Texas,75003
+1348,804,Work,21529 Everett Court,Addison,Texas,75005
+1349,807,Work,1525 Duke Avenue,Richardson,Texas,75002
+1350,808,Work,4 Golden Leaf Park,Dallas,Texas,75002
+1351,809,Work,060 Express Center,Allen,Texas,75008
+1352,812,Work,118 Magdeline Drive,Richardson,Texas,75007
+1353,814,Work,02 Sunnyside Junction,Richardson,Texas,75005
+1354,815,Work,798 Pond Point,Addison,Texas,75007
+1355,820,Work,2584 Milwaukee Center,Dallas,Texas,75004
+1356,823,Work,639 Talisman Road,Addison,Texas,75002
+1357,824,Work,84 7th Crossing,Addison,Texas,75008
+1358,827,Work,2521 Petterle Junction,Richardson,Texas,75009
+1359,828,Work,615 Lunder Hill,Richardson,Texas,75001
+1360,830,Work,24624 Dovetail Crossing,Addison,Texas,75007
+1361,831,Work,8 Nevada Point,Dallas,Texas,75003
+1362,834,Work,2769 Ramsey Junction,Allen,Texas,75002
+1363,835,Work,945 Hagan Terrace,Allen,Texas,75008
+1364,836,Work,974 Green Center,Richardson,Texas,75007
+1365,837,Work,10 Harbort Plaza,Allen,Texas,75003
+1366,838,Work,417 Sachs Point,Dallas,Texas,75004
+1367,839,Work,8875 Porter Drive,Dallas,Texas,75001
+1368,841,Work,6880 Havey Park,Plano,Texas,75001
+1369,842,Work,9797 Summit Terrace,Plano,Texas,75002
+1370,844,Work,82863 Superior Circle,Dallas,Texas,75001
+1371,846,Work,1595 Moland Center,Addison,Texas,75002
+1372,847,Work,7558 Pawling Way,Allen,Texas,75001
+1373,848,Work,06 Vera Street,Allen,Texas,75003
+1374,849,Work,0 Sachtjen Lane,Allen,Texas,75009
+1375,852,Work,46 Tony Terrace,Allen,Texas,75003
+1376,853,Work,6 Dottie Crossing,Plano,Texas,75001
+1377,855,Work,5146 Grayhawk Junction,Allen,Texas,75006
+1378,857,Work,4 Mccormick Court,Addison,Texas,75005
+1379,859,Work,9520 Schiller Trail,Dallas,Texas,75006
+1380,862,Work,157 Drewry Circle,Richardson,Texas,75008
+1381,867,Work,41 Marquette Pass,Richardson,Texas,75005
+1382,868,Work,35864 Village Green Crossing,Richardson,Texas,75001
+1383,869,Work,5458 Starling Avenue,Dallas,Texas,75004
+1384,870,Work,18664 Ridgeway Court,Addison,Texas,75003
+1385,874,Work,410 Maple Street,Richardson,Texas,75007
+1386,876,Work,67232 Brickson Park Street,Richardson,Texas,75002
+1387,880,Work,8 Duke Crossing,Richardson,Texas,75007
+1388,881,Work,7534 Ludington Hill,Allen,Texas,75007
+1389,882,Work,302 East Center,Dallas,Texas,75008
+1390,883,Work,18730 Calypso Place,Dallas,Texas,75004
+1391,884,Work,10 Delladonna Junction,Plano,Texas,75004
+1392,886,Work,5208 Tennyson Alley,Richardson,Texas,75004
+1393,887,Work,9 Kensington Circle,Addison,Texas,75006
+1394,891,Work,036 Welch Pass,Plano,Texas,75003
+1395,893,Work,8401 Vidon Center,Richardson,Texas,75008
+1396,894,Work,2076 Vernon Junction,Plano,Texas,75004
+1397,896,Work,933 Lakewood Terrace,Addison,Texas,75006
+1398,899,Work,5154 Crowley Drive,Richardson,Texas,75001
+1399,900,Work,719 Onsgard Court,Allen,Texas,75003
+1400,903,Work,09 Dexter Center,Addison,Texas,75002
+1401,905,Work,72162 Pond Park,Addison,Texas,75008
+1402,906,Work,11901 Mitchell Crossing,Dallas,Texas,75006
+1403,908,Work,320 Rutledge Trail,Addison,Texas,75005
+1404,909,Work,7539 Meadow Valley Junction,Dallas,Texas,75002
+1405,910,Work,37 Sloan Plaza,Richardson,Texas,75004
+1406,912,Work,78762 Oak Valley Terrace,Richardson,Texas,75002
+1407,915,Work,866 Heffernan Point,Addison,Texas,75005
+1408,916,Work,49032 7th Drive,Dallas,Texas,75004
+1409,917,Work,4 4th Circle,Addison,Texas,75002
+1410,918,Work,9 Loftsgordon Drive,Richardson,Texas,75001
+1411,919,Work,26242 Upham Circle,Plano,Texas,75006
+1412,920,Work,66919 Cody Trail,Dallas,Texas,75007
+1413,922,Work,2817 Lukken Pass,Dallas,Texas,75007
+1414,924,Work,6 Esch Place,Allen,Texas,75007
+1415,925,Work,350 Crowley Lane,Allen,Texas,75001
+1416,927,Work,09 Myrtle Street,Addison,Texas,75003
+1417,929,Work,4 Ruskin Alley,Addison,Texas,75001
+1418,930,Work,33594 Debs Road,Dallas,Texas,75004
+1419,931,Work,8467 Dottie Place,Dallas,Texas,75009
+1420,935,Work,98238 Sloan Lane,Addison,Texas,75008
+1421,936,Work,422 Bobwhite Park,Addison,Texas,75009
+1422,938,Work,38 Artisan Junction,Addison,Texas,75008
+1423,940,Work,8685 Carey Crossing,Plano,Texas,75008
+1424,943,Work,6409 Warner Terrace,Dallas,Texas,75008
+1425,944,Work,5 Mallard Lane,Addison,Texas,75004
+1426,946,Work,0 Coolidge Street,Allen,Texas,75003
+1427,947,Work,21 Sutherland Road,Dallas,Texas,75008
+1428,948,Work,8615 Emmet Parkway,Allen,Texas,75001
+1429,949,Work,71460 Meadow Valley Point,Plano,Texas,75001
+1430,951,Work,76928 Little Fleur Street,Dallas,Texas,75007
+1431,953,Work,6798 Gale Point,Plano,Texas,75008
+1432,954,Work,6 Gale Lane,Addison,Texas,75003
+1433,956,Work,5 Weeping Birch Avenue,Dallas,Texas,75008
+1434,957,Work,7386 Scott Drive,Dallas,Texas,75003
+1435,958,Work,5204 Messerschmidt Avenue,Plano,Texas,75006
+1436,959,Work,358 Northwestern Hill,Plano,Texas,75007
+1437,962,Work,2612 Duke Avenue,Plano,Texas,75004
+1438,963,Work,4 Westerfield Court,Plano,Texas,75007
+1439,968,Work,48011 Karstens Circle,Addison,Texas,75001
+1440,974,Work,553 Sycamore Way,Dallas,Texas,75001
+1441,975,Work,0059 Hoepker Place,Richardson,Texas,75009
+1442,976,Work,89641 Kings Place,Addison,Texas,75001
+1443,977,Work,8 Hoepker Lane,Plano,Texas,75001
+1444,979,Work,36884 Milwaukee Street,Dallas,Texas,75007
+1445,981,Work,501 Valley Edge Park,Richardson,Texas,75009
+1446,985,Work,2 Elgar Place,Plano,Texas,75006
+1447,987,Work,161 Katie Drive,Addison,Texas,75009
+1448,988,Work,86 Meadow Vale Park,Plano,Texas,75001
+1449,990,Work,0 Lillian Alley,Addison,Texas,75005
+1450,991,Work,67 Continental Hill,Dallas,Texas,75008
+1451,992,Work,72701 Morningstar Way,Dallas,Texas,75005
+1452,994,Work,38 Shoshone Terrace,Dallas,Texas,75006
+1453,996,Work,46412 Vahlen Park,Addison,Texas,75007
+1454,997,Work,3 Pennsylvania Terrace,Addison,Texas,75009
+1455,998,Work,67720 Myrtle Parkway,Dallas,Texas,75005
